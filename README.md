@@ -177,6 +177,7 @@ obs: parent_id deve receber o id de um local já existente. Se não houver locai
      os dados podem ser enviados assim mesmo, pois esse campo não é obrigatório.
 
 status: 201, created
+
 ======================================
 
 Listar locais cadastrados:
